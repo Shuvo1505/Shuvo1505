@@ -1,6 +1,6 @@
 ![profile_welcome](https://github.com/Shuvo1505/Shuvo1505/assets/75200261/aba943e2-8527-4d33-a90e-dc378d3b8c2e)
 
-<h1 align="center">Hi 👋, I'm Purnendu Guha</h1>
+<h1 align="center">Hello 👋, I'm Purnendu Guha</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo1505&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo1505" /> </p>
