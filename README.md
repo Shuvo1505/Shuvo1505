@@ -10,7 +10,7 @@
 - 📫 How to reach me **purnenduguha71@gmail.com**
 
   <img width="400" height="220" alt="coding" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" 
-  align="left">
+  align="center">
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
