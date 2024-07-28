@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo1505&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo1505" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently researching about **Custom ROM's**
 
 - 📫 How to reach me **purnenduguha71@gmail.com**
 
